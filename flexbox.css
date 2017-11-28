@@ -67,7 +67,3 @@
 .box10 {
      width: 33.33%;
 }
-
-@mediascreen(max-width:480px) @mediascreen(max-width:1020px) {
-    
-}
